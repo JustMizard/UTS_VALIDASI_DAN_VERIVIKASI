@@ -23,7 +23,7 @@ aplikasi SIMDADUK dengan PHP native ini memiliki  fitur yaitu :
 
 # TUTORIAL MENGGUNAKAN APLIKASI
 
-1. Dwnload file dari github ini
+1. Dwnload file simanduk.rar
 2. pindahkan file ke Xampp --> htdocs
 3. buka apk xampp dan aktifkan apache dan MySql
 4. buka phpmyadmin dan database baru bernama " data_penduduk "
